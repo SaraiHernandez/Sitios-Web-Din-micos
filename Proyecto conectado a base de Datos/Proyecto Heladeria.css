@@ -1,0 +1,71 @@
+table{
+font-family:Felix Titling;
+font size: 30;
+}
+
+h1,p3{
+      color:blue;
+      font-family:Showcard Gothic;
+      
+}
+h2{
+      color:purple;
+      font-family:Comic Sans MS;
+
+}
+nav li{
+ display:inline-block;
+ padding:5px;
+font-family:Imprint MT Shadow;
+
+     
+}
+
+p,h1{
+      border: 3px solid black;
+      margin: 5px;
+      padding: 5px;
+      line-height: 150%;
+      background-color:black;
+      color: white;
+}
+
+div{
+     border: 3px solid black;
+      background-color:pink;
+      color: black;
+}
+div2{
+border: 3px solid black;
+      background-color:blue;
+      color: black;
+}
+p2{
+ color:brown;
+ font-family:Bodoni MT Black;
+  font size: 30;
+}
+p3{
+border: 3px solid black;
+      margin: 5px;
+      padding: 5px;
+      line-height: 150%;
+      background-color:black;
+      color: aqua;
+}
+p4{
+      color:blue;
+      font-family:Comic Sans MS;
+}
+p5{
+      color:grey;
+      font-family:Comic Sans MS;
+}
+footer{
+ border: 3px solid black;
+      margin: 5px;
+      padding: 5px;
+      line-height: 150%;
+      background-color:black;
+      color: white;
+}
